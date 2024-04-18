@@ -4,5 +4,6 @@
 1. 카운터
 2. 모달
 
-미션1 - Todo List
-미션2 - Movie Poster
+미션
+1. Todo List<br>
+2. Movie Poster
